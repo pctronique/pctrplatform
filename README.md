@@ -2,7 +2,7 @@
 
 Merci de visiter le wiki (https://github.com/pctronique/pctrplatform/wiki).
 
-Pour mettre facilement un routage des pages du site.
+Pour récupérer le type de plate-forme du serveur.
 
 Pas besoin de base de données, pas de configuration pour l'utiliser.
 
