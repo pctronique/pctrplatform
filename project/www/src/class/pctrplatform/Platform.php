@@ -2,7 +2,7 @@
 // verifier qu'on n'a pas deja creer la classe
 if (!class_exists('Platform')) {
 
-    include_once __DIR__ . "/PlatformEnum.php";
+    require_once __DIR__ . "/PlatformEnum.php";
 
     /**
      * Pour récupérer le nom de la plateforme utilisé.
